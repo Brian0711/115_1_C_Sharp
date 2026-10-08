@@ -16,5 +16,20 @@ namespace Tutorial_2_4
         {
             InitializeComponent();
         }
+
+        private void finlandpictureBox1_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "芬蘭";
+        }
+
+        private void FrancepictureBox_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "法國";
+        }
+
+        private void GermanpictureBox_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "德國";
+        }
     }
 }
