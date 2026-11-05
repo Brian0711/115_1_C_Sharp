@@ -1,0 +1,502 @@
+﻿16 matches found: 
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_08\Toturial_2_5\Toturial2_5\Toturial2_5\Program.cs>
+    File: `115_10_08/Toturial_2_5/Toturial2_5/Toturial2_5/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Toturial2_5
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Toturial_2_3\Toturial_2_3\Program.cs>
+    File: `115_10_01/Toturial_2_3/Toturial_2_3/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Toturial_2_3
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Toturial_2_3\Toturial_2_3\Program.cs>
+    File: `115_10_01/Toturial_2_3/Toturial_2_3/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Toturial_2_3
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Form1.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello world");
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Form1.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello world");
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Tutorial_2_4\Tutorial_2_4\Program.cs>
+    File: `115_10_01/Tutorial_2_4/Tutorial_2_4/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_4
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Tutorial_2_4\Tutorial_2_4\Program.cs>
+    File: `115_10_01/Tutorial_2_4/Tutorial_2_4/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_4
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Program.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Program.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_08\Toturial_2_5\Toturial2_5\Toturial2_5\Form1.cs>
+    File: `115_10_08/Toturial_2_5/Toturial2_5/Toturial2_5/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Toturial2_5
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CardBackpictureBox.Visible = true;
+            CardFacepictureBox.Visible = false;
+        }
+
+        private void Showfacebutton1_Click(object sender, EventArgs e)
+        {
+            CardBackpictureBox.Visible = false;
+            CardFacepictureBox.Visible = true;
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_08\Toturial_2_5\Toturial2_5\Toturial2_5\Form1.cs>
+    File: `115_10_08/Toturial_2_5/Toturial2_5/Toturial2_5/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Toturial2_5
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CardBackpictureBox.Visible = true;
+            CardFacepictureBox.Visible = false;
+        }
+
+        private void Showfacebutton1_Click(object sender, EventArgs e)
+        {
+            CardBackpictureBox.Visible = false;
+            CardFacepictureBox.Visible = true;
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Toturial_2_3\Toturial_2_3\Form1.cs>
+    File: `115_10_01/Toturial_2_3/Toturial_2_3/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Toturial_2_3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            translatelabel.Text = "Buongiorno";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            translatelabel.Text = "Buenos dias";
+        }
+
+        private void Germanybutton_Click(object sender, EventArgs e)
+        {
+            translatelabel.Text = "Guten Morgen";
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Toturial_2_3\Toturial_2_3\Form1.cs>
+    File: `115_10_01/Toturial_2_3/Toturial_2_3/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Toturial_2_3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            translatelabel.Text = "Buongiorno";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            translatelabel.Text = "Buenos dias";
+        }
+
+        private void Germanybutton_Click(object sender, EventArgs e)
+        {
+            translatelabel.Text = "Guten Morgen";
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Tutorial_2_4\Tutorial_2_4\Form1.cs>
+    File: `115_10_01/Tutorial_2_4/Tutorial_2_4/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void finlandpictureBox1_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "芬蘭";
+        }
+
+        private void FrancepictureBox_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "法國";
+        }
+
+        private void GermanpictureBox_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "德國";
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_10_01\Tutorial_2_4\Tutorial_2_4\Form1.cs>
+    File: `115_10_01/Tutorial_2_4/Tutorial_2_4/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void finlandpictureBox1_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "芬蘭";
+        }
+
+        private void FrancepictureBox_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "法國";
+        }
+
+        private void GermanpictureBox_Click(object sender, EventArgs e)
+        {
+            countrylabel.Text = "德國";
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Documents\GitHub\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Properties\AssemblyInfo.cs>
+    // Lines 21 to 33
+</match>
