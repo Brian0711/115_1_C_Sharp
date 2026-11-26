@@ -1,0 +1,14 @@
+Argentina	阿根廷
+Bolivia	玻利維亞
+Brazil	巴西
+Chile	智利
+Colombia	哥倫比亞
+Ecuador	厄瓜多
+Falkland Islands	福克蘭群島
+French Guiana	法屬圭亞那
+Guyana	蓋亞那
+Paraguay	巴拉圭
+Peru	秘魯
+Suriname	蘇利南
+Uruguay	烏拉圭
+Venezuela	委內瑞拉
